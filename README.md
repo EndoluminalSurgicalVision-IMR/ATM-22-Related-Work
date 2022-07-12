@@ -8,7 +8,7 @@
 We collected 500 CT scans from multi-sites. The airway tree structures are carefully labeled by three radiologists with more than five years of professional experience. The intra-class imbalance among the trachea, main bronchi, lobar bronchi, and distal segmental bronchi affects the segmentation performance of peripheral bronchi. In conclusion, we encourage the participating teams to design robust algorithms, which can extract the airway tree structure with high topological completeness and accuracy for clinical use. Our challenge is open call (challenge opens for new submissions after MICCAI 2022 deadline). The registration page and detailed information could refer to the [**Registration Page**](https://atm22.grand-challenge.org/registration/).
 
 If you find this repo's papers and codes are helpful to your research, and if you use our dataset provided by ATM'22 for your scientific research, **please cite the following works:**
-</p>
+
 ```
 @incollection{zhang2021fda,
   title={Fda: Feature decomposition and aggregation for robust airway segmentation},

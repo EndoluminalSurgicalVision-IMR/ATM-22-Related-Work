@@ -54,7 +54,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 <!-- |2|[]()|[]()|2|[]()| -->
 | Date | Author | Title | Conf/Jour | Code |
 | :---: | :---: | :---: | :---: | :---: |
-|2022|[Yun Gu](https://scholar.google.com/citations?user=0pX32mkAAAAJ&hl=zh-CN)|[Vision-Kinematics-Interaction for Robotic-Assisted Bronchoscopy Navigation](https://ieeexplore.ieee.org/document/9830773)|IEEE TMI|[————]()|
+|2022|[Yun Gu](https://scholar.google.com/citations?user=0pX32mkAAAAJ&hl=zh-CN)|[Vision-Kinematics-Interaction for Robotic-Assisted Bronchoscopy Navigation](https://ieeexplore.ieee.org/document/9830773)|IEEE TMI|[——]()|
 |2022|[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[CFDA: Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway TreeModeling of COVID-19 CTs]()|MICCAI|[Official](https://github.com/Puzzled-Hui/CFDA)|
 |2022|[Haifan Gong](https://haifangong.github.io/)|[BronchusNet: Region and Structure Prior Embedded Representation Learning for Bronchus Segmentation and Classification](https://arxiv.org/abs/2205.06947)|Arxiv|[None]()|
 |2021|[Wehao Yu](https://scholar.google.com/citations?hl=zh-CN&user=fCzlLE4AAAAJ)|[BREAK: Bronchi Reconstruction by gEodesic transformation And sKeleton embedding](https://ieeexplore.ieee.org/abstract/document/9761697/)|ISBI|[None]()|

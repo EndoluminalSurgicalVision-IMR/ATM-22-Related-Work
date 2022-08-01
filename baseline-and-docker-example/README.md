@@ -8,12 +8,12 @@ docker build -t teamname .
 ```
 
 ## 2. Save the Docker Image
-Please save the docker as belows, and e-mail to <a href="mailto:IMR-ATM22@outlook.com">IMR-ATM22@outlook.com</a> with a downloadable link, along with a short paper that describes your methods and experiment settings.
+Please save the docker as belows, and e-mail to <a href="mailto:IMR-ATM22@outlook.com">IMR-ATM22@outlook.com</a> with a downloadable link to the zipped docker image, along with a short paper that describes your methods and experiment settings.
 ```angular2html
 docker save teamname:latest -o teamname.tar.gz
 ```
 
-## 3. Test the Docker (The Organizers will do...)
+## 3. Test the Docker 
 It will call `predict.sh` when starting the docker image. In addition, we will mount the `$PWD/inputs/` 
 (a folder contains testing cases, file structure is same as the training and validation) to `/workspace/inputs/` in your docker container, and mount `$PWD/teamname_outputs/` (an empty folder used to save individual prediction results) to `/workspace/outputs/` in your docker container.
 

@@ -19,14 +19,11 @@ It will call `predict.sh` when starting the docker image. In addition, we will m
 
 The instructions is the same as the [Submission Guideline](https://atm22.grand-challenge.org/submission/) in the Grand-Challeng.org.
 
-We will execute the following commands: 
+We organizers will execute the following commands: 
 ```angular2html
 docker image load < teamname.tar.gz
 docker container run --gpus "device=0" --name teamname --rm -v $PWD/inputs/:/workspace/inputs/ -v $PWD/teamname_outputs/:/workspace/outputs/ teamname:latest /bin/bash -c "sh predict.sh"
 ```
-
-
-
 
 
 

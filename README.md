@@ -77,7 +77,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 |2012|[Pechin Lo](https://scholar.google.com/citations?user=p6V4-AUAAAAJ&hl=zh-CN&oi=sra)|[Extraction of airways from CT (EXACT'09)](https://ieeexplore.ieee.org/abstract/document/6249784)|IEEE TMI|[——]()|
 
 
-
-
+### The Docker Tutorial for the ATM_22 Test Phase Submission
+We provide a baseline model and a detailed docker tutorial for the [ATM 22 Challenge](https://atm22.grand-challenge.org/homepage/). Please refer to [baseline-and-docker-example](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/baseline-and-docker-example) for detailed instructions.
 
 

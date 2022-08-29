@@ -1,9 +1,9 @@
 # Airway Tree Modeling (ATM'22) Related Work
 <div align=center><img src="figs/bannar.png"></div>
 
-This repository is created for our organized MICCAI 2022 Challenge: [**Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)**](https://atm22.grand-challenge.org/homepage/)
+This repository is for our organized MICCAI 2022 Challenge: [**Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)**](https://atm22.grand-challenge.org/homepage/)
 
-We provide a baseline model and a detailed docker tutorial for the [ATM 22 Challenge](https://atm22.grand-challenge.org/homepage/). Please refer to [baseline-and-docker-example](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/baseline-and-docker-example) for detailed instructions.
+We provide a baseline model and a detailed docker tutorial for the [ATM 22 Challenge](https://atm22.grand-challenge.org/homepage/). Please refer to [**baseline-and-docker-example**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/baseline-and-docker-example) for detailed instructions.
 
 Airway segmentation is a crucial step for the analysis of pulmonary diseases including asthma, bronchiectasis, and emphysema. The accurate segmentation based on X-Ray computed tomography (CT) enables the quantitative measurements of airway dimensions and wall thickness, which can reveal the abnormality of patients with chronic obstructive pulmonary disease (COPD). Besides, the extraction of patient-specific airway models from CT images is required for navigation in bronchoscopic-assisted surgery. Due to the fine-grained pulmonary airway structure, manual annotation is however time-consuming, error-prone, and highly relies on the expertise of clinicians.
 

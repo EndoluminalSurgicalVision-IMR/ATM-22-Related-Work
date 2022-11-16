@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 <div align=center><img src="figs/bannar.png"></div>
 
-Official repository for MICCAI 2022 Challenge: [**Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)**](https://atm22.grand-challenge.org/homepage/).
+Official repository for MICCAI 2022 Challenge: [**_Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)_**](https://atm22.grand-challenge.org/homepage/).
 > By Minghui Zhang, Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Xiaoxuan Zheng, Fangfang Xie, Jiayuan Sun, Guang-Zhong Yang, Yun Gu
 >> The organization team of the ATM'22, Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
 
@@ -16,19 +16,19 @@ Official repository for MICCAI 2022 Challenge: [**Multi-site, Multi-Domain Airwa
 2. [Related Pulmonary Airway Segmentation Work](#Related-Pulmonary-Airway-Segmentation-Work)
 3. [Dataset Rule](#Dataset-Rule)
 
-### Participation Instruction
+## Participation Instruction
 Our challenge is open call (challenge opens for new submissions after MICCAI 2022 deadline). 
 
-#### Registration
+### Registration
 The registration page and detailed information could refer to the [**Registration Page**](https://atm22.grand-challenge.org/registration/).
 
-#### Baseline and Docker Tutorial
+### Baseline and Docker Tutorial
 We provide a baseline model and a detailed docker tutorial, please refer to: [**baseline-and-docker-example**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/baseline-and-docker-example) for detailed instructions.
 
-#### Evaluation
+### Evaluation
 The evaluation code is provided in [**evaluation**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/evaluation).
 
-### Related Pulmonary Airway Segmentation Work
+## Related Pulmonary Airway Segmentation Work
 We collected the papers related to pulmonary airway segmentation and bronchoscopy navigation as belows:
 <!-- |2|[]()|[]()|2|[]()| -->
 | Date | Author | Title |     Conf/Jour      | Code |
@@ -57,7 +57,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 | 2012 |[Pechin Lo](https://scholar.google.com/citations?user=p6V4-AUAAAAJ&hl=zh-CN&oi=sra)|[Extraction of airways from CT (EXACT'09)](https://ieeexplore.ieee.org/abstract/document/6249784)|      IEEE TMI      |[——]()|
 
 
-### Dataset Rule
+## Dataset Rule
 If you find this repo's papers and codes are helpful to your research, and if you use our dataset provided by ATM'22 for your scientific research, 
 **please cite the following works:**
 

@@ -23,10 +23,10 @@ Our challenge is open call (challenge opens for new submissions after MICCAI 202
 The registration page and detailed information could refer to the [**Registration Page**](https://atm22.grand-challenge.org/registration/).
 
 ### Baseline and Docker Tutorial
-We provide a baseline model and a detailed docker tutorial, please refer to: [**baseline-and-docker-example**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/baseline-and-docker-example) for detailed instructions.
+We provide a baseline model and a detailed docker tutorial, please refer to: [**Baseline and Docker Example**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/baseline-and-docker-example) for detailed instructions.
 
 ### Evaluation
-The evaluation code is provided in [**evaluation**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/evaluation).
+The evaluation code is provided in [**Evaluation**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/evaluation).
 
 ## Related Pulmonary Airway Segmentation Work
 We collected the papers related to pulmonary airway segmentation and bronchoscopy navigation as belows:

@@ -1,7 +1,7 @@
 # Airway Tree Modeling (ATM'22) Related Work
 <div align=center><img src="figs/bannar.png"></div>
 
-This repository is for our organized MICCAI 2022 Challenge: [**Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)**](https://atm22.grand-challenge.org/homepage/)
+Official repository for MICCAI 2022 Challenge: [**Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)**](https://atm22.grand-challenge.org/homepage/)
 
 We provide a baseline model and a detailed docker tutorial for the [ATM 22 Challenge](https://atm22.grand-challenge.org/homepage/). Please refer to [**baseline-and-docker-example**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/baseline-and-docker-example) for detailed instructions.
 

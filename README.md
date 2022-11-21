@@ -33,9 +33,11 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 <!-- |2|[]()|[]()|2|[]()| -->
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
+| 2022 |[Yang Nan](https://scholar.google.com.hk/citations?user=bfIiCesAAAAJ&hl=zh-CN)|[Fuzzy Attention Neural Network to Tackle Discontinuity in Airway Segmentation](https://arxiv.org/abs/2209.02048)| Arxiv | [——]() |
+| 2022 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[Differentiable Topology-Preserved Distance Transform for Pulmonary Airway Segmentation](https://arxiv.org/abs/2209.08355)|       Arxiv       |[——]()|
 | 2022 |[Wehao Yu](https://scholar.google.com/citations?hl=zh-CN&user=fCzlLE4AAAAJ)|[TNN: Tree Neural Network for Airway Anatomical Labeling](https://ieeexplore.ieee.org/document/9878127)|      IEEE TMI      |[Official](https://github.com/haozheng-sjtu/airway-labeling)|
 | 2022 |[Yun Gu](https://scholar.google.com/citations?user=0pX32mkAAAAJ&hl=zh-CN)|[Vision-Kinematics-Interaction for Robotic-Assisted Bronchoscopy Navigation](https://ieeexplore.ieee.org/document/9830773)|      IEEE TMI      |[——]()|
-| 2022 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[CFDA: Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway TreeModeling of COVID-19 CTs]()|       MICCAI       |[Official](https://github.com/Puzzled-Hui/CFDA)|
+| 2022 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[CFDA: Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway TreeModeling of COVID-19 CTs](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_48)|       MICCAI       |[Official](https://github.com/Puzzled-Hui/CFDA)|
 | 2022 |[Haifan Gong](https://haifangong.github.io/)|[BronchusNet: Region and Structure Prior Embedded Representation Learning for Bronchus Segmentation and Classification](https://arxiv.org/abs/2205.06947)|       Arxiv        |[——]()|
 | 2021 |[Wehao Yu](https://scholar.google.com/citations?hl=zh-CN&user=fCzlLE4AAAAJ)|[BREAK: Bronchi Reconstruction by gEodesic transformation And sKeleton embedding](https://ieeexplore.ieee.org/abstract/document/9761697/)|        ISBI        |[——]()|
 | 2021 |[Yangqian Wu](https://www.researchgate.net/profile/Yangqian-Wu)|[LTSP: long-term slice propagation for accurate airway segmentation](https://link.springer.com/article/10.1007/s11548-022-02582-7)|       IJCARS       |[——]()|

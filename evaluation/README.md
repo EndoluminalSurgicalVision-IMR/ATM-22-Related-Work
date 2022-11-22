@@ -10,5 +10,5 @@ In the `evaluation_atm_22.py`, it includes the calculation of four metrics:
 - Precision (%) 
 These metrics could also be used in other tubular segmentation tasks.
 
-
+In addition, the code of parsing the airway tree can refer to the repository of [Alleviating class-wise gradient imbalance for pulmonary airway segmentation](https://github.com/haozheng-sjtu/3d-airway-segmentation).
 

@@ -33,6 +33,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 <!-- |2|[]()|[]()|2|[]()| -->
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
+| 2023 |[Hanxiao Zhang]()|[Deep anatomy learning for lung airway and artery-vein segmentation with synthetic contrast-enhanced CT generation]()|IPCAI|[——]()|
 | 2022 |[Yang Nan](https://scholar.google.com.hk/citations?user=bfIiCesAAAAJ&hl=zh-CN)|[Fuzzy Attention Neural Network to Tackle Discontinuity in Airway Segmentation](https://arxiv.org/abs/2209.02048)| Arxiv | [——]() |
 | 2022 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[Differentiable Topology-Preserved Distance Transform for Pulmonary Airway Segmentation](https://arxiv.org/abs/2209.08355)|       Arxiv       |[——]()|
 | 2022 |[Wehao Yu](https://scholar.google.com/citations?hl=zh-CN&user=fCzlLE4AAAAJ)|[TNN: Tree Neural Network for Airway Anatomical Labeling](https://ieeexplore.ieee.org/document/9878127)|      IEEE TMI      |[Official](https://github.com/haozheng-sjtu/airway-labeling)|

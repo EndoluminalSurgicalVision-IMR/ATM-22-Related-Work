@@ -17,10 +17,10 @@
 3. [Dataset Rule](#Dataset-Rule)
 
 ## Participation Instruction
-Our challenge is open call (challenge opens for new submissions after MICCAI 2022 deadline). 
+Our challenge is open call (challenge opens for new submissions after MICCAI 2022 deadline). The online evaluation for individual algorithms is still working. 
 
 ### Registration
-The registration page and detailed information could refer to the [**Registration Page**](https://atm22.grand-challenge.org/registration/).
+The registration page and detailed information could refer to [**Registration Page**](https://atm22.grand-challenge.org/registration/).
 
 ### Baseline and Docker Tutorial
 We provide a baseline model and a detailed docker tutorial, please refer to: [**Baseline and Docker Example**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/baseline-and-docker-example) for detailed instructions.

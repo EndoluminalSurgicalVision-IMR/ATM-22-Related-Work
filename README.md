@@ -62,7 +62,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 
 ## Dataset Rule
 If you find this repo's papers and codes are helpful to your research, and if you use our dataset provided by ATM'22 for your scientific research, 
-**please cite the following works:**
+**please must cite the following works:**
 
 ```
 @incollection{zhang2021fda,

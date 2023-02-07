@@ -65,13 +65,13 @@ If you find this repo's papers and codes are helpful to your research, and if yo
 **please must cite the following works:**
 
 ```
-@incollection{zhang2021fda,
-  title={Fda: Feature decomposition and aggregation for robust airway segmentation},
-  author={Zhang, Minghui and Yu, Xin and Zhang, Hanxiao and Zheng, Hao and Yu, Weihao and Pan, Hong and Cai, Xiangran and Gu, Yun},
-  booktitle={Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health},
-  pages={25--34},
-  year={2021},
-  publisher={Springer}
+@inproceedings{zhang2022cfda,
+  title={CFDA: Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway Tree Modeling of COVID-19 CTs},
+  author={Zhang, Minghui and Zhang, Hanxiao and Yang, Guang-Zhong and Gu, Yun},
+  booktitle={Medical Image Computing and Computer Assisted Intervention--MICCAI 2022: 25th International Conference, Singapore, September 18--22, 2022, Proceedings, Part I},
+  pages={506--516},
+  year={2022},
+  organization={Springer}
 }
 
 @article{zheng2021alleviating,

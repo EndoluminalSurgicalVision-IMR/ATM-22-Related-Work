@@ -29,7 +29,7 @@ We provide a baseline model and a detailed docker tutorial, please refer to: [**
 The evaluation code is provided in [**Evaluation**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/evaluation).
 
 ## Related Pulmonary Airway Segmentation Work
-We collected the papers related to pulmonary airway segmentation and bronchoscopy navigation as belows:
+We collected the papers related to pulmonary airway segmentation and bronchoscopy navigation:
 <!-- |2|[]()|[]()|2|[]()| -->
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |

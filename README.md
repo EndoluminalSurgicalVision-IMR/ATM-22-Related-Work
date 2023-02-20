@@ -4,7 +4,7 @@
 <div align=center><img src="figs/bannar.png"></div>
 
 **Official repository for MICCAI 2022 Challenge:** [**_Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)_**](https://atm22.grand-challenge.org/homepage/).
-> By [Minghui Zhang](https://scholar.google.com/citations?user=CepcxZcAAAAJ&hl=zh-CN), Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Jiayuan Sun, Guang-Zhong Yang, Yun Gu.
+> By [Minghui Zhang](https://scholar.google.com/citations?user=CepcxZcAAAAJ&hl=zh-CN), Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Jiayuan Sun, Guang-Zhong Yang, [Yun Gu](https://scholar.google.com/citations?user=0pX32mkAAAAJ&hl=zh-CN).
 >> The organization team of the ATM'22: Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
 
 ## Contents 

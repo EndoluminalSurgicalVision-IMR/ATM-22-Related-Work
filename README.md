@@ -17,7 +17,7 @@
 3. [Dataset Rule](#Dataset-Rule)
 
 ## Participation Instruction
-The challenge is open-call (challenge opens for new submissions after MICCAI 2022 deadline). The online evaluation for individual algorithms is still working. 
+This challenge is open-call (challenge opens for new submissions after MICCAI 2022 deadline). The online evaluation for individual algorithms is still working. 
 
 ### Registration
 The registration information, and detailed information could refer to [**Registration Page**](https://atm22.grand-challenge.org/registration/).

@@ -8,7 +8,7 @@
 >> The organization team of the ATM'22: Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
 
 We are glad to announce our challenge benchmark paper manuscritpt are online: **https://arxiv.org/pdf/2303.05745.pdf**. 
-If you are interested in our challenge or using our data, please refer and cite to [this paper](https://arxiv.org/pdf/2303.05745.pdf)!
+If you are interested in our challenge or using our data, please refer and cite to [**this paper**](https://arxiv.org/pdf/2303.05745.pdf)!
 
 ## Contents 
 

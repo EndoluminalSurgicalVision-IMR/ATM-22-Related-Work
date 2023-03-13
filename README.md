@@ -7,6 +7,9 @@
 > By [Minghui Zhang](https://scholar.google.com/citations?user=CepcxZcAAAAJ&hl=zh-CN), [Yangqian Wu](https://scholar.google.com/citations?user=gHi2ZUMAAAAJ&hl=zh-CN), Hanxiao Zhang, [Yulei Qin](https://scholar.google.com/citations?user=vBnuTjwAAAAJ&hl=zh-CN), [Hao Zheng](https://scholar.google.com/citations?user=LsJVCSoAAAAJ&hl=zh-CN&oi=ao), Jiayuan Sun, Guang-Zhong Yang, [Yun Gu](https://scholar.google.com/citations?user=0pX32mkAAAAJ&hl=zh-CN).
 >> The organization team of the ATM'22: Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
 
+We are glad to announce our challenge benchmark paper manuscritpt are online on arxiv: **https://arxiv.org/pdf/2303.05745.pdf**. 
+If you are interested in our challenge or using our data, please refer and cite to [this paper](https://arxiv.org/pdf/2303.05745.pdf)!
+
 ## Contents 
 
 1. [Participation Instruction](#Participation-Instruction)

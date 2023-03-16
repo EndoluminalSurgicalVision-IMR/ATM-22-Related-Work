@@ -71,6 +71,13 @@ If you find this repo's papers, codes, and ATM'22 challenge data are helpful to 
 **please must cite the following works:**
 
 ```
+@article{zhang2023multi,
+  title={Multi-site, Multi-domain Airway Tree Modeling (ATM'22): A Public Benchmark for Pulmonary Airway Segmentation},
+  author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Yang, Guang-Zhong and Gu, Yun and others},
+  journal={arXiv preprint arXiv:2303.05745},
+  year={2023}
+}
+
 @inproceedings{zhang2022cfda,
   title={CFDA: Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway Tree Modeling of COVID-19 CTs},
   author={Zhang, Minghui and Zhang, Hanxiao and Yang, Guang-Zhong and Gu, Yun},

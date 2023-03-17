@@ -67,7 +67,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 | 2012 |[Pechin Lo](https://scholar.google.com/citations?user=p6V4-AUAAAAJ&hl=zh-CN&oi=sra)|[Extraction of airways from CT (EXACT'09)](https://ieeexplore.ieee.org/abstract/document/6249784)|      IEEE TMI      |[——]()|
 
 
-## Dataset Rule
+## Citation & Dataset Rule
 If you find this repo's papers, codes, and ATM'22 challenge data are helpful to your research, and if you use our dataset provided by ATM'22 for your scientific research, 
 **please must cite the following works:**
 

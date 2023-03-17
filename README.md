@@ -18,7 +18,7 @@ If you are interested in our challenge or using our data, please refer and cite 
     - [Baseline and Docker Tutorial](#Baseline-and-Docker-Tutorial)
     - [Evaluation](#Evaluation)
 2. [Related Pulmonary Airway Segmentation Work](#Related-Pulmonary-Airway-Segmentation-Work)
-3. [Dataset Rule](#Dataset-Rule)
+3. [Citation & Dataset Rule](#Citation-&-Dataset-Rule)
 
 ## Participation Instruction
 This challenge is open-call (challenge opens for new submissions after MICCAI 2022 deadline). The online evaluation for individual algorithms is still working. 

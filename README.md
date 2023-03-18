@@ -4,7 +4,7 @@
 <div align=center><img src="figs/bannar.png"></div>
 
 **Official repository for MICCAI 2022 Challenge:** [**_Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)_**](https://atm22.grand-challenge.org/homepage/).
-> By Minghui Zhang, Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Weihao Yu, Jiayuan Sun, Guang-Zhong Yang, Yun Gu.
+> Minghui Zhang, Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Weihao Yu, Jiayuan Sun, Guang-Zhong Yang, Yun Gu.
 >> The organization team of the ATM'22: Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
 
 We are glad to announce our challenge benchmark manuscritpt  **Multi-site, Multi-domain Airway Tree Modeling (ATM’22): A Public Benchmark for
@@ -18,7 +18,7 @@ If you are interested in our challenge or using our data, please refer and cite 
     - [Baseline and Docker Tutorial](#Baseline-and-Docker-Tutorial)
     - [Evaluation](#Evaluation)
 2. [Related Pulmonary Airway Segmentation Work](#Related-Pulmonary-Airway-Segmentation-Work)
-3. [Citation & Dataset Rule](#Citation-&-Dataset-Rule)
+3. [Citation and Dataset Rule](#Citation-and-Dataset-Rule)
 
 ## Participation Instruction
 This challenge is open-call (challenge opens for new submissions after MICCAI 2022 deadline). The online evaluation for individual algorithms is still working. 
@@ -67,7 +67,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 | 2012 |[Pechin Lo](https://scholar.google.com/citations?user=p6V4-AUAAAAJ&hl=zh-CN&oi=sra)|[Extraction of airways from CT (EXACT'09)](https://ieeexplore.ieee.org/abstract/document/6249784)|      IEEE TMI      |[——]()|
 
 
-## Citation & Dataset Rule
+## Citation and Dataset Rule
 If you find this repo's papers, codes, and ATM'22 challenge data are helpful to your research, and if you use our dataset provided by ATM'22 for your scientific research, 
 **please must cite the following works:**
 

@@ -5,7 +5,7 @@
 
 **Official repository for MICCAI 2022 Challenge:** [**_Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)_**](https://atm22.grand-challenge.org/homepage/).
 > Minghui Zhang, Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Weihao Yu, Jiayuan Sun, Guang-Zhong Yang, Yun Gu.
->> The organization team of the ATM'22: Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
+>> ATM'22 organization team: Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
 
 **Highlight: The benchmark manuscritpt: [Multi-site, Multi-domain Airway Tree Modeling (ATM’22): A Public Benchmark for Pulmonary Airway Segmentation](https://arxiv.org/pdf/2303.05745.pdf)** are online. 
 If ATM'22 challenge, dataset or this repo is helpful to your scientific research, please cite the above paper!

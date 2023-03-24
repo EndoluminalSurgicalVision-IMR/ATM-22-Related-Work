@@ -9,9 +9,16 @@
 
 **Highlight: The benchmark manuscritpt: [Multi-site, Multi-domain Airway Tree Modeling (ATM’22): A Public Benchmark for Pulmonary Airway Segmentation](https://arxiv.org/pdf/2303.05745.pdf)** are online. 
 If ATM'22 challenge, dataset or this repo is helpful to your scientific research, please cite the above paper!
+```
+@article{zhang2023multi,
+  title={Multi-site, Multi-domain Airway Tree Modeling (ATM'22): A Public Benchmark for Pulmonary Airway Segmentation},
+  author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Yang, Guang-Zhong and Gu, Yun and others},
+  journal={arXiv preprint arXiv:2303.05745},
+  year={2023}
+}
+```
 
 ## Contents 
-
 1. [Participation Instruction](#Participation-Instruction)
     - [Registration](#Registration)
     - [Baseline and Docker Tutorial](#Baseline-and-Docker-Tutorial)
@@ -72,13 +79,6 @@ If you find this repo's papers, codes, and ATM'22 challenge data are helpful to 
 **please must cite the following works:**
 
 ```
-@article{zhang2023multi,
-  title={Multi-site, Multi-domain Airway Tree Modeling (ATM'22): A Public Benchmark for Pulmonary Airway Segmentation},
-  author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Yang, Guang-Zhong and Gu, Yun and others},
-  journal={arXiv preprint arXiv:2303.05745},
-  year={2023}
-}
-
 @inproceedings{zhang2022cfda,
   title={CFDA: Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway Tree Modeling of COVID-19 CTs},
   author={Zhang, Minghui and Zhang, Hanxiao and Yang, Guang-Zhong and Gu, Yun},

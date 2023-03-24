@@ -12,7 +12,7 @@ If ATM'22 challenge, dataset or this repo is helpful to your scientific research
 ```
 @article{zhang2023multi,
   title={Multi-site, Multi-domain Airway Tree Modeling (ATM'22): A Public Benchmark for Pulmonary Airway Segmentation},
-  author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Yang, Guang-Zhong and Gu, Yun and others},
+  author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Tang, Wen and Arnold, Corey and Pei, Chenhao and Yu, Pengxin and Nan, Yang and others},
   journal={arXiv preprint arXiv:2303.05745},
   year={2023}
 }

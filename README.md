@@ -1,4 +1,4 @@
-# Airway Tree Modeling (ATM'22) Related Work
+# Airway Tree Modeling (ATM'22) Benchmark
 [![Framework: Python](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 <div align=center><img src="figs/bannar.png"></div>

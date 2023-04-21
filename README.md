@@ -76,7 +76,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 
 ## Citation and Dataset Rule
 If you find this repo's papers, codes, and ATM'22 challenge data are helpful to your research, and if you use our dataset provided by ATM'22 for your scientific research, 
-**please must cite the following works:**
+**please cite the following works:**
 
 ```
 @inproceedings{zhang2022cfda,
@@ -115,5 +115,15 @@ If you find this repo's papers, codes, and ATM'22 challenge data are helpful to 
   pages={212--220},
   year={2019},
   organization={Springer}
+}
+```
+
+Alternatively, you could also cite our challenge benchmark manuscript:
+```
+@article{zhang2023multi,
+  title={Multi-site, Multi-domain Airway Tree Modeling (ATM'22): A Public Benchmark for Pulmonary Airway Segmentation},
+  author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Tang, Wen and Arnold, Corey and Pei, Chenhao and Yu, Pengxin and Nan, Yang and others},
+  journal={arXiv preprint arXiv:2303.05745},
+  year={2023}
 }
 ```

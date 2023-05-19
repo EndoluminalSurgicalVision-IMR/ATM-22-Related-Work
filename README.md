@@ -19,14 +19,14 @@ If ATM'22 challenge, dataset or this repo is helpful to your scientific research
 ```
 
 ## Contents 
-1. [Participation Instruction](#Participation-Instruction)
+1. [ATM'22 Challenge Collection](#ATM'22-Challenge-Collection)
     - [Registration](#Registration)
     - [Baseline and Docker Tutorial](#Baseline-and-Docker-Tutorial)
     - [Evaluation](#Evaluation)
 2. [Related Pulmonary Airway Segmentation Work](#Related-Pulmonary-Airway-Segmentation-Work)
 3. [Citation and Dataset Rule](#Citation-and-Dataset-Rule)
 
-## Participation Instruction
+## ATM'22 Challenge Collection
 This challenge is open-call (challenge opens for new submissions after MICCAI 2022 deadline). The online evaluation for individual algorithms is still working. 
 
 ### Registration
@@ -46,6 +46,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 | 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling (ATM’22): A Public Benchmark for Pulmonary Airway Segmentation](https://arxiv.org/abs/2303.05745)|Arxiv|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
 | 2023 |[Mingyue Zhao]()|[GDDS: Pulmonary Bronchioles Segmentation with Group Deep Dense Supervision](https://arxiv.org/pdf/2303.09212.pdf)|Arxiv|[——]()|
 | 2023 |[Hanxiao Zhang]()|[Deep anatomy learning for lung airway and artery-vein segmentation with synthetic contrast-enhanced CT generation]()|IPCAI|[——]()|
+| 2023 |[Yanan Wu](https://scholar.google.com/citations?user=phzPWXMAAAAJ&hl=zh-CN&oi=sra)|[Two-stage Contextual Transformer-based Convolutional Neural Network for Airway Extraction from CT Images](https://arxiv.org/abs/2212.07651)|Arxiv|[——]()|
 | 2022 |[Zeyu Tang](https://scholar.google.com/citations?user=aSSpwswAAAAJ&hl=zh-CN&oi=sra)|[Human Treelike Tubular Structure Segmentation: A Comprehensive Review and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S0010482522009490)|CBM|[——]()|
 | 2022 |[Shuai Chen](https://scholar.google.com/citations?user=aSSpwswAAAAJ&hl=zh-CN&oi=sra)|[Label Refinement Network from Synthetic Error Augmentation for Medical Image Segmentation](https://arxiv.org/abs/2209.06353)|IEEE TMI|[Official](https://github.com/ShuaiChenBIGR/Label-refinement-network)|
 | 2023 |[Zeyu Tang](https://scholar.google.com.hk/citations?user=Hp5DOVIAAAAJ&hl=zh-CN&oi=sra)|[Adversarial Transformer for Repairing Human Airway Segmentation](https://arxiv.org/pdf/2210.12029.pdf)|Arxiv|[——]()|

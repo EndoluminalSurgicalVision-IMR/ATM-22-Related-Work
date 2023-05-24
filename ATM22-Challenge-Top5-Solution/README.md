@@ -4,4 +4,4 @@ We collected the Top-5 solution participated in our ATM'22 challenge for the res
 <!-- |2|[]()|-->
 | Team Name | Code |
 |:----:| :----:|
-| timi | [Code Link]()]
+| timi | [Code Link]() |

@@ -6,4 +6,4 @@ We collected the Top-5 solution participated in our ATM'22 challenge for the res
 <!-- |2|[]()|2|[]()|2|[]()|2|[]()|2|[]()| -->
 | Team Name | Code | Team Name | Code | Team Name | Code | Team Name | Code | Team Name | Code | 
 |:----:| :----:|:----:| :----:|:----:| :----:|:----:| :----:|:----:| :----:|
-| 1. timi | [Code Link]() | 2. timi | [Code Link]() | 3. timi | [Code Link]() | 4. timi | [Code Link]() | 5. timi | [Code Link]() | 
+| 1. timi | [Link](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/ATM22-Challenge-Top5-Solution/team_timi) | 2. timi | [Link]() | 3. timi | [Link]() | 4. timi | [Link]() | 5. timi | [Link]() | 

@@ -1,11 +1,3 @@
-# FANN-for-airway-segmentation
-This is a release code of the paper "Fuzzy Attention Neural Network to Tackle Discontinuity in Airway Segmentation" 
-## Updates
-**04/11/2022**:  
-Upload docker download link for reproducing the module.  
-Release the evaluation metrics.   
-**Coming soon**:  
-release the FANN code when the paper is accepted.  
 ## Reproduce the work in the paper
 The file format must be *.nii.gz  
 1. Download the docker file through (no available at the moment due to AIIB23)

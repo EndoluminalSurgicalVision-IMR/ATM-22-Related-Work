@@ -44,6 +44,7 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
 | 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling (ATM’22): A Public Benchmark for Pulmonary Airway Segmentation](https://arxiv.org/abs/2303.05745)|Arxiv|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
+| 2023 |[Puyang Wang]()|[Accurate Airway Tree Segmentation in CT Scans via Anatomy-aware Multi-class Segmentation and Topology-guided Iterative Learning](https://arxiv.org/abs/2306.09116)|Arxiv|[——]()|
 | 2023 |[Ziqiao Weng]()|[Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset](https://arxiv.org/abs/2306.07089)|MICCAI|[——]()|
 | 2023 |[Mingyue Zhao]()|[GDDS: Pulmonary Bronchioles Segmentation with Group Deep Dense Supervision](https://arxiv.org/pdf/2303.09212.pdf)|Arxiv|[——]()|
 | 2023 |[Hanxiao Zhang]()|[Deep anatomy learning for lung airway and artery-vein segmentation with synthetic contrast-enhanced CT generation]()|IPCAI|[——]()|

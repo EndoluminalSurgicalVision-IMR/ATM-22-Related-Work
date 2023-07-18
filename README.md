@@ -18,7 +18,7 @@ If ATM'22 challenge, dataset or this repo is helpful to your scientific research
 }
 ```
 
-## Contents 
+## Content
 1. [ATM'22 Challenge Collection](#ATM'22-Challenge-Collection)
     - [Registration](#Registration)
     - [Baseline and Docker Tutorial](#Baseline-and-Docker-Tutorial)

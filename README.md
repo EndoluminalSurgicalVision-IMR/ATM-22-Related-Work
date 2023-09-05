@@ -7,7 +7,7 @@
 > Minghui Zhang, Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Weihao Yu, Jiayuan Sun, Guang-Zhong Yang, Yun Gu.
 >> ATM'22 organization team: Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
 
-**Highlight: The benchmark manuscritpt: [Multi-site, Multi-domain Airway Tree Modeling (ATM’22): A Public Benchmark for Pulmonary Airway Segmentation](https://arxiv.org/pdf/2303.05745.pdf)** are online. 
+**Highlight: The benchmark manuscritpt: [Multi-site, Multi-domain Airway Tree Modeling](https://arxiv.org/pdf/2303.05745.pdf)** has been accepted for publication in Medical Image Analysis. 
 If ATM'22 challenge, dataset or this repo is helpful to your scientific research, please cite the [**paper**](https://arxiv.org/pdf/2303.05745.pdf):
 ```
 @article{zhang2023multi,
@@ -43,7 +43,8 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 <!-- |2|[]()|[]()|2|[]()| -->
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
-| 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling (ATM’22): A Public Benchmark for Pulmonary Airway Segmentation](https://arxiv.org/abs/2303.05745)|Arxiv|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
+| 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling](https://arxiv.org/abs/2303.05745)|MedIA|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
+| 2023 |[Difei Gu]()|[Semi-Supervised Pulmonary Airway Segmentation with Two-Stage Feature Specialization Mechanism](https://ieeexplore.ieee.org/abstract/document/10230329/)|ISBI|[——]()|
 | 2023 |[Puyang Wang]()|[Accurate Airway Tree Segmentation in CT Scans via Anatomy-aware Multi-class Segmentation and Topology-guided Iterative Learning](https://arxiv.org/abs/2306.09116)|Arxiv|[——]()|
 | 2023 |[Ziqiao Weng]()|[Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset](https://arxiv.org/abs/2306.07089)|MICCAI|[——]()|
 | 2023 |[Mingyue Zhao]()|[GDDS: Pulmonary Bronchioles Segmentation with Group Deep Dense Supervision](https://arxiv.org/pdf/2303.09212.pdf)|Arxiv|[——]()|
@@ -66,15 +67,15 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 | 2021 |[A. Garcia-Uceda Juarez](https://scholar.google.com/citations?user=5pLmIVYAAAAJ&hl=zh-CN&oi=sra)|[Automatic airway segmentation from Computed Tomography using robust and efficient 3-D convolutional neural networks](https://www.researchgate.net/profile/Raghavendra-Selvan-2/publication/350512163_Automatic_airway_segmentation_from_Computed_Tomography_using_robust_and_efficient_3-D_convolutional_neural_networks/links/60674588299bf1252e2432b1/Automatic-airway-segmentation-from-Computed-Tomography-using-robust-and-efficient-3-D-convolutional-neural-networks.pdf)| Scientific Reports |[Official](https://github.com/antonioguj/bronchinet)|
 | 2020 |[Hanxiao Zhang]()|[Pathological airway segmentation with cascaded neural networks for bronchoscopic navigation](https://ieeexplore.ieee.org/abstract/document/9196756)|     IEEE ICRA      |[——]()|
 | 2020 |[Yulei Qin](https://scholar.google.com/citations?user=vBnuTjwAAAAJ&hl=zh-CN&oi=sra)|[Learning Tubule-Sensitive CNNs for Pulmonary Airway and Artery-Vein Segmentation in CT](https://ieeexplore.ieee.org/abstract/document/9363945)|      IEEE TMI      |[Official](http://www.pami.sjtu.edu.cn/Show/56/146)|
-| 2020 |[Raghavendra Selvan](https://raghavian.github.io/)|[Graph refinement based airway extraction using mean-field networks and graph neural networks](https://www.sciencedirect.com/science/article/pii/S1361841520301158)|        MIA         |[Official](https://github.com/raghavian/graph_refinement)|
-| 2019 |[Jihye Yun](https://sites.google.com/view/jihyeyunphd)|[Improvement of fully automated airway segmentation on volumetric computed tomographic images using a 2.5 dimensional convolutional neural net](https://www.sciencedirect.com/science/article/pii/S1361841518308508)|        MIA         |[——]()|
+| 2020 |[Raghavendra Selvan](https://raghavian.github.io/)|[Graph refinement based airway extraction using mean-field networks and graph neural networks](https://www.sciencedirect.com/science/article/pii/S1361841520301158)|        MedIA         |[Official](https://github.com/raghavian/graph_refinement)|
+| 2019 |[Jihye Yun](https://sites.google.com/view/jihyeyunphd)|[Improvement of fully automated airway segmentation on volumetric computed tomographic images using a 2.5 dimensional convolutional neural net](https://www.sciencedirect.com/science/article/pii/S1361841518308508)|        MedIA         |[——]()|
 | 2019 |[Chenglong Wang](https://scholar.google.com/citations?user=pLtUR5cAAAAJ&hl=zh-CN&oi=sra)|[Tubular structure segmentation using spatial fully connected network with radial distance loss for 3D medical images](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_39)|       MICCAI       |[——]()|
 | 2019 |[A. Garcia-Uceda Juarez](https://scholar.google.com/citations?user=5pLmIVYAAAAJ&hl=zh-CN&oi=sra)|[A joint 3D UNet-graph neural network-based method for airway segmentation from chest CTs](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_67)|    MLMI@MICCAI     |[——]()|
 | 2019 |[Yulei Qin](https://scholar.google.com/citations?user=vBnuTjwAAAAJ&hl=zh-CN&oi=sra)|[AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_24)|       MICCAI       |[——]()|
 | 2017 |[Qier Meng](https://scholar.google.com/citations?user=mVPvS2AAAAAJ&hl=zh-CN&oi=sra)|[Tracking and segmentation of the airways in chest CT using a fully convolutional network](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_23)|       MICCAI       |[——]()|
-| 2017 |[Jean-Paul Charbonnier](https://scholar.google.com/citations?user=K8Pz4m0AAAAJ&hl=zh-CN&oi=sra)|[Improving airway segmentation in computed tomography using leak detection with convolutional networks](https://www.sciencedirect.com/science/article/pii/S136184151630202X)|        MIA         |[——]()|
+| 2017 |[Jean-Paul Charbonnier](https://scholar.google.com/citations?user=K8Pz4m0AAAAJ&hl=zh-CN&oi=sra)|[Improving airway segmentation in computed tomography using leak detection with convolutional networks](https://www.sciencedirect.com/science/article/pii/S136184151630202X)|        MedIA         |[——]()|
 | 2017 |[Dakai Jin](https://dakjin.github.io/)|[3D convolutional neural networks with graph refinement for airway segmentation using incomplete data labels](https://link.springer.com/chapter/10.1007/978-3-319-67389-9_17)|    MLMI@MICCAI     |[——]()|
-| 2015 |[Ziyue Xu](https://scholar.google.com/citations?hl=zh-CN&user=gmUta74AAAAJ)|[A hybrid method for airway segmentation and automated measurement of bronchial wall thickness on CT](https://www.sciencedirect.com/science/article/pii/S1361841515000705)|        MIA         |[——]()|
+| 2015 |[Ziyue Xu](https://scholar.google.com/citations?hl=zh-CN&user=gmUta74AAAAJ)|[A hybrid method for airway segmentation and automated measurement of bronchial wall thickness on CT](https://www.sciencedirect.com/science/article/pii/S1361841515000705)|        MedIA         |[——]()|
 | 2012 |[Pechin Lo](https://scholar.google.com/citations?user=p6V4-AUAAAAJ&hl=zh-CN&oi=sra)|[Extraction of airways from CT (EXACT'09)](https://ieeexplore.ieee.org/abstract/document/6249784)|      IEEE TMI      |[——]()|
 
 

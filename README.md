@@ -11,10 +11,12 @@
 If ATM'22 challenge, dataset or this repo is helpful to your scientific research, please cite the [**paper**](https://arxiv.org/pdf/2303.05745.pdf):
 ```
 @article{zhang2023multi,
-  title={Multi-site, Multi-domain Airway Tree Modeling (ATM'22): A Public Benchmark for Pulmonary Airway Segmentation},
+  title={Multi-site, Multi-domain Airway Tree Modeling},
   author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Tang, Wen and Arnold, Corey and Pei, Chenhao and Yu, Pengxin and Nan, Yang and others},
-  journal={arXiv preprint arXiv:2303.05745},
-  year={2023}
+  journal={Medical Image Analysis},
+  pages={102957},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
 
@@ -126,9 +128,11 @@ If you find this repo's papers, codes, and ATM'22 challenge data are helpful to 
 Alternatively, you could also cite our challenge benchmark manuscript:
 ```
 @article{zhang2023multi,
-  title={Multi-site, Multi-domain Airway Tree Modeling (ATM'22): A Public Benchmark for Pulmonary Airway Segmentation},
+  title={Multi-site, Multi-domain Airway Tree Modeling},
   author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Tang, Wen and Arnold, Corey and Pei, Chenhao and Yu, Pengxin and Nan, Yang and others},
-  journal={arXiv preprint arXiv:2303.05745},
-  year={2023}
+  journal={Medical Image Analysis},
+  pages={102957},
+  year={2023},
+  publisher={Elsevier}
 }
 ```

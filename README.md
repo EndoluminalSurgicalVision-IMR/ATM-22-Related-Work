@@ -7,8 +7,8 @@
 > Minghui Zhang, Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Weihao Yu, Jiayuan Sun, Guang-Zhong Yang, Yun Gu.
 >> ATM'22 organization team: Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
 
-**Highlight: The benchmark manuscritpt: [Multi-site, Multi-domain Airway Tree Modeling](https://arxiv.org/pdf/2303.05745.pdf)** has been accepted for publication in Medical Image Analysis. 
-If ATM'22 challenge, dataset or this repo is helpful to your scientific research, please cite the [**paper**](https://arxiv.org/pdf/2303.05745.pdf):
+**Highlight: The benchmark manuscritpt: [Multi-site, Multi-domain Airway Tree Modeling](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177)** has been accepted for publication in Medical Image Analysis. 
+If ATM'22 challenge, dataset or this repo is helpful to your scientific research, please cite the [**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177):
 ```
 @article{zhang2023multi,
   title={Multi-site, Multi-domain Airway Tree Modeling},

@@ -14,6 +14,7 @@ If ATM'22 challenge, dataset or this repo is helpful to your scientific research
   title={Multi-site, Multi-domain Airway Tree Modeling},
   author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Tang, Wen and Arnold, Corey and Pei, Chenhao and Yu, Pengxin and Nan, Yang and others},
   journal={Medical Image Analysis},
+  volume={90},
   pages={102957},
   year={2023},
   publisher={Elsevier}
@@ -132,6 +133,7 @@ Alternatively, you could also cite our challenge benchmark manuscript:
   title={Multi-site, Multi-domain Airway Tree Modeling},
   author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Tang, Wen and Arnold, Corey and Pei, Chenhao and Yu, Pengxin and Nan, Yang and others},
   journal={Medical Image Analysis},
+  volume={90},
   pages={102957},
   year={2023},
   publisher={Elsevier}

@@ -47,7 +47,8 @@ We collected the papers related to pulmonary airway segmentation and bronchoscop
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
 | 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling](https://arxiv.org/abs/2303.05745)|MedIA|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
-| 2023 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[Towards Connectivity-Aware Pulmonary Airway Segmentation](https://arxiv.org/abs/2209.08355)|       IEEE JBHI       |[——]()|
+| 2023 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[Towards Connectivity-Aware Pulmonary Airway Segmentation](https://ieeexplore.ieee.org/abstract/document/10283811)|       IEEE JBHI       |[——]()|
+| 2023 |[Karen-Helene Støverud](https://scholar.google.com/citations?hl=zh-CN&user=6LBkICsAAAAJ&view_op=list_works&sortby=pubdate)|[AeroPath: An airway segmentation benchmark dataset with challenging pathology](https://arxiv.org/abs/2311.01138)|       Arxiv      |[Official](https://github.com/raidionics/AeroPath)|
 | 2023 |[Wehao Yu](https://scholar.google.com/citations?hl=zh-CN&user=fCzlLE4AAAAJ)|[AirwayFormer: Structure-Aware Boundary-Adaptive Transformers for Airway Anatomical Labeling](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_37)| MICCAI |[Official](https://github.com/EndoluminalSurgicalVision-IMR/AirwayFormer)|
 | 2023 |[Difei Gu]()|[Semi-Supervised Pulmonary Airway Segmentation with Two-Stage Feature Specialization Mechanism](https://ieeexplore.ieee.org/abstract/document/10230329/)|ISBI|[——]()|
 | 2023 |[Puyang Wang]()|[Accurate Airway Tree Segmentation in CT Scans via Anatomy-aware Multi-class Segmentation and Topology-guided Iterative Learning](https://arxiv.org/abs/2306.09116)|Arxiv|[——]()|

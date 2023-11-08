@@ -33,7 +33,9 @@ If ATM'22 challenge, dataset or this repo is helpful to your scientific research
 This challenge is open-call (challenge opens for new submissions after MICCAI 2022 deadline). The online evaluation for individual algorithms is still working. 
 
 ### Registration
-The registration information, and detailed information could refer to [**Registration Page**](https://atm22.grand-challenge.org/registration/).
+The registration information, and detailed information could refer to [**Registration Page**](https://atm22.grand-challenge.org/registration/). 
+
+**NOTE:** All participants must send the signed data agreement to IMR-ATM22@outlook.com for successful registration, as required in [**Registration Page**](https://atm22.grand-challenge.org/registration/). 
 
 ### Baseline and Docker Tutorial
 We provide a baseline model and a detailed docker tutorial, please refer to: [**Baseline and Docker Example**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/baseline-and-docker-example) for detailed instructions.

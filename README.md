@@ -41,13 +41,14 @@ We provide a baseline model and a detailed docker tutorial, please refer to: [**
 ### Evaluation
 The evaluation code is provided in [**Evaluation**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/evaluation).
 
-## Related Pulmonary Airway Segmentation Work
+## Related Works of Pulmonary Airway Segmentation and Bronchoscopy Navigation
 We collected the papers related to pulmonary airway segmentation and bronchoscopy navigation:
 <!-- |2|[]()|[]()|2|[]()| -->
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
 | 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling](https://arxiv.org/abs/2303.05745)|MedIA|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
 | 2023 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[Towards Connectivity-Aware Pulmonary Airway Segmentation](https://ieeexplore.ieee.org/abstract/document/10283811)|       IEEE JBHI       |[——]()|
+| 2023 |[Ron Alterovitz](https://scholar.google.com/citations?user=-XEZA0UAAAAJ&hl=zh-CN&oi=sra)|[Landmark Based Bronchoscope Localization for Needle Insertion Under Respiratory Deformation](https://robotics.cs.unc.edu/publications/Fried2023_IROS.pdf)|       IROS       |[——]()|
 | 2023 |[Karen-Helene Støverud](https://scholar.google.com/citations?hl=zh-CN&user=6LBkICsAAAAJ&view_op=list_works&sortby=pubdate)|[AeroPath: An airway segmentation benchmark dataset with challenging pathology](https://arxiv.org/abs/2311.01138)|       Arxiv      |[Official](https://github.com/raidionics/AeroPath)|
 | 2023 |[Wehao Yu](https://scholar.google.com/citations?hl=zh-CN&user=fCzlLE4AAAAJ)|[AirwayFormer: Structure-Aware Boundary-Adaptive Transformers for Airway Anatomical Labeling](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_37)| MICCAI |[Official](https://github.com/EndoluminalSurgicalVision-IMR/AirwayFormer)|
 | 2023 |[Difei Gu]()|[Semi-Supervised Pulmonary Airway Segmentation with Two-Stage Feature Specialization Mechanism](https://ieeexplore.ieee.org/abstract/document/10230329/)|ISBI|[——]()|

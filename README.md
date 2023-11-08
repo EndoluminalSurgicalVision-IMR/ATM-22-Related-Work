@@ -26,7 +26,7 @@ If ATM'22 challenge, dataset or this repo is helpful to your scientific research
     - [Registration](#Registration)
     - [Baseline and Docker Tutorial](#Baseline-and-Docker-Tutorial)
     - [Evaluation](#Evaluation)
-2. [Related Pulmonary Airway Segmentation Work](#Related-Pulmonary-Airway-Segmentation-Work)
+2. [Related Works](#Related-Works)
 3. [Citation and Dataset Rule](#Citation-and-Dataset-Rule)
 
 ## ATM'22 Challenge Collection
@@ -41,8 +41,10 @@ We provide a baseline model and a detailed docker tutorial, please refer to: [**
 ### Evaluation
 The evaluation code is provided in [**Evaluation**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/evaluation).
 
-## Related Works of Pulmonary Airway Segmentation and Bronchoscopy Navigation
+## Related Works
 We collected the papers related to pulmonary airway segmentation and bronchoscopy navigation:
+
+Please refer to [**Related Works**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/related_works) for detailed information.
 <!-- |2|[]()|[]()|2|[]()| -->
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |

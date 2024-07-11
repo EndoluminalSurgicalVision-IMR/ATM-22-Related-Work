@@ -113,6 +113,8 @@ Please refer to [**Related Works**](https://github.com/Puzzled-Hui/ATM-22-Relate
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
 | 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling](https://arxiv.org/abs/2303.05745)|MedIA|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
+| 2024 |[Yang Nan](https://scholar.google.com.hk/citations?user=bfIiCesAAAAJ&hl=zh-CN)|[Hunting imaging biomarkers in pulmonary fibrosis: Benchmarks of the AIIB23 challenge](https://www.sciencedirect.com/science/article/pii/S1361841524001786)| MedIA | [——]() |
+| 2024 |[Puyang Wang]()|[Accurate Airway Tree Segmentation in CT Scans via Anatomy-aware Multi-class Segmentation and Topology-guided Iterative Learning](https://ieeexplore.ieee.org/abstract/document/10574168)|IEEE TMI|[——]()|
 | 2023 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[Towards Connectivity-Aware Pulmonary Airway Segmentation](https://ieeexplore.ieee.org/abstract/document/10283811)|       IEEE JBHI       |[——]()|
 | 2023 |[Diedre S. Carmo](https://scholar.google.com/citations?user=YjA3hdoAAAAJ&hl=pt-BR)|[MEDPSeg: End-to-end segmentation of pulmonary structures and lesions in computed tomography](https://arxiv.org/pdf/2312.02365.pdf)|  Arxiv   |[Official](https://github.com/miclab-unicamp/medpseg)|
 | 2023 |[Yan Hu]()|[Large-Kernel Attention Network with Distance Regression and Topological Self-correction for Airway Segmentation](https://link.springer.com/chapter/10.1007/978-981-99-8388-9_10)|       AJCAI       |[——]()|
@@ -120,7 +122,6 @@ Please refer to [**Related Works**](https://github.com/Puzzled-Hui/ATM-22-Relate
 | 2023 |[Karen-Helene Støverud](https://scholar.google.com/citations?hl=zh-CN&user=6LBkICsAAAAJ&view_op=list_works&sortby=pubdate)|[AeroPath: An airway segmentation benchmark dataset with challenging pathology](https://arxiv.org/abs/2311.01138)|       Arxiv      |[Official](https://github.com/raidionics/AeroPath)|
 | 2023 |[Wehao Yu](https://scholar.google.com/citations?hl=zh-CN&user=fCzlLE4AAAAJ)|[AirwayFormer: Structure-Aware Boundary-Adaptive Transformers for Airway Anatomical Labeling](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_37)| MICCAI |[Official](https://github.com/EndoluminalSurgicalVision-IMR/AirwayFormer)|
 | 2023 |[Difei Gu]()|[Semi-Supervised Pulmonary Airway Segmentation with Two-Stage Feature Specialization Mechanism](https://ieeexplore.ieee.org/abstract/document/10230329/)|ISBI|[——]()|
-| 2023 |[Puyang Wang]()|[Accurate Airway Tree Segmentation in CT Scans via Anatomy-aware Multi-class Segmentation and Topology-guided Iterative Learning](https://arxiv.org/abs/2306.09116)|Arxiv|[——]()|
 | 2023 |[Ziqiao Weng]()|[Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset](https://arxiv.org/abs/2306.07089)|MICCAI|[——]()|
 | 2023 |[Mingyue Zhao]()|[GDDS: Pulmonary Bronchioles Segmentation with Group Deep Dense Supervision](https://arxiv.org/pdf/2303.09212.pdf)|Arxiv|[——]()|
 | 2023 |[Hanxiao Zhang]()|[Deep anatomy learning for lung airway and artery-vein segmentation with synthetic contrast-enhanced CT generation]()|IPCAI|[——]()|

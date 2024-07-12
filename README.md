@@ -112,8 +112,6 @@ Please refer to [**Related Works**](https://github.com/Puzzled-Hui/ATM-22-Relate
 <!-- |2|[]()|[]()|2|[]()| -->
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
-
-
 | 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling](https://arxiv.org/abs/2303.05745)|MedIA|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
 | 2024 |[Yang Nan](https://scholar.google.com.hk/citations?user=bfIiCesAAAAJ&hl=zh-CN)|[Hunting imaging biomarkers in pulmonary fibrosis: Benchmarks of the AIIB23 challenge](https://www.sciencedirect.com/science/article/pii/S1361841524001786)| MedIA | [——]() |
 | 2024 |[Puyang Wang]()|[Accurate Airway Tree Segmentation in CT Scans via Anatomy-aware Multi-class Segmentation and Topology-guided Iterative Learning](https://ieeexplore.ieee.org/abstract/document/10574168)|IEEE TMI|[——]()|

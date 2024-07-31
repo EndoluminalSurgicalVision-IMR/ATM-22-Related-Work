@@ -4,6 +4,10 @@ The Binary Airway Segmentation Dataset [1][2] includes 90 CT scans in total. 70 
 We provided the images and airway annotations for the 70 CT scans from LIDC. Meanwhile, only the airway annotations for the 20 CT scans from EXACT'09 are provided. 
 The original images of EXACT'09 should be acquired from its own official website: http://image.diku.dk/exact/. 
 
+**Download Links**
+
+
+
 **Reference:**
 
 [1] 

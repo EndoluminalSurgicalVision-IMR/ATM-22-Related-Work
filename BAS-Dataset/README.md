@@ -10,9 +10,9 @@ The original images of EXACT'09 should be acquired from its own official website
 
 **Reference:**
 
-[1] 
+[1] Qin Y, Zheng H, Gu Y, et al. Learning tubule-sensitive CNNs for pulmonary airway and artery-vein segmentation in CT[J]. IEEE transactions on medical imaging, 2021, 40(6): 1603-1617.
 
-[2]
+[2] Zheng H, Qin Y, Gu Y, et al. Alleviating class-wise gradient imbalance for pulmonary airway segmentation[J]. IEEE transactions on medical imaging, 2021, 40(9): 2452-2462.
 
 [3] Armato III, S.G., et al.: The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans. Med. Phys. 38(2), 915–931 (2011)
 

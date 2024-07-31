@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 <div align=center><img src="figs/bannar.png"></div>
 
-**News:** We have integrated the Binary Airway Segmentation (BAS) dataset in this repository! Please refer to  [**BAS Dataset**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/BAS-Dataset) for detailed information!
+**News [2024/07/31]:** We have integrated the Binary Airway Segmentation (BAS) dataset in this repository! Please refer to  [**BAS Dataset**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/BAS-Dataset) for detailed information!
 
 **Official repository for MICCAI 2022 Challenge:** [**_Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)_**](https://atm22.grand-challenge.org/homepage/).
 > Minghui Zhang, Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Weihao Yu, Jiayuan Sun, Guang-Zhong Yang, Yun Gu.

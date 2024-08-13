@@ -5,6 +5,7 @@
 
 **News [2024/08/10]:** We have updated the Long-Term Test-Phase Results for the hidden test set (150 CT scans) after MICCAI 2022. The **Docker or API submission** via e-mail(IMR-ATM22@outlook.com) for the test phase is welcome, and we will update the results timely.
 Please refer to  [**Long-Term-Test-Phase-Results**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/Long-Term-Test-Phase-Results) for detailed information!
+
 **News [2024/07/31]:** We have integrated the Binary Airway Segmentation (BAS) dataset in this repository! Please refer to  [**BAS Dataset**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/BAS-Dataset) for detailed information!
 
 **Official repository for MICCAI 2022 Challenge:** [**_Multi-site, Multi-Domain Airway Tree Modeling (ATM’22)_**](https://atm22.grand-challenge.org/homepage/).

@@ -31,7 +31,7 @@ If ATM'22 challenge, dataset or this repo is helpful to your scientific research
     - [Registration](#Registration)
     - [Baseline and Docker Tutorial](#Baseline-and-Docker-Tutorial)
     - [Evaluation](#Evaluation)
-2. [Citation and Dataset Rule](#Citation-and-Dataset-Rule)
+2. [Citation and Dataset Rule](#📝-Citation-and-Dataset-Rule)
 3. [Related Works](#Related-Works)
 
 ## ATM'22 Challenge Collection

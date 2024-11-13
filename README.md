@@ -58,7 +58,9 @@ Please refer to [**Related Works**](https://github.com/Puzzled-Hui/ATM-22-Relate
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
 | 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling](https://arxiv.org/abs/2303.05745)|MedIA|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
+| 2024 |[Chenyu Li]()|[Airway Labeling Meets Clinical Applications: Reflecting Topology Consistency and Outliers via Learnable Attentions](https://arxiv.org/abs/2410.23854)| Arxiv | [——]()  |
 | 2024 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[Implicit Representation Embraces Challenging Attributes of Pulmonary Airway Tree Structures](https://papers.miccai.org/miccai-2024/paper/0885_paper.pdf)| MICCAI | [Official](https://github.com/EndoluminalSurgicalVision-IMR/DGCI) |
+| 2024 |[Bingyu Yang]()|[Multi-Stage Airway Segmentation in Lung CT Based on Multi-scale Nested Residual UNet](https://arxiv.org/abs/2410.18456)| Arxiv | [——]() |
 | 2024 |[Kangxian Xie]()|[Efficient Anatomical Labeling of Pulmonary Tree Structures via Deep Point-Graph Representation-based Implicit Fields](https://www.sciencedirect.com/science/article/pii/S1361841524002925)| MedIA | [Official](https://github.com/M3DV/pulmonary-tree-labeling) |
 | 2024 |[Ruiyun Zhu]()|[Semi-supervised Tubular Structure Segmentation with Cross Geometry and Hausdorff Distance Consistency](https://papers.miccai.org/miccai-2024/paper/0651_paper.pdf)| MICCAI | [——]() |
 | 2024 |[Xuan Yang]()|[Airway Segmentation Based on Topological Structure Enhancement Using Multi-task Learning](https://papers.miccai.org/miccai-2024/paper/3005_paper.pdf)| MICCAI | [Official](https://github.com/xyang-11/airway_seg) |
@@ -108,7 +110,7 @@ Please refer to [**Related Works**](https://github.com/Puzzled-Hui/ATM-22-Relate
 If you find this repo's papers, codes, and ATM'22 challenge data are helpful to your research, and if you use our dataset provided by ATM'22 for your scientific research, 
 **please cite the following works:**
 
-```
+```bibtex
 @inproceedings{zhang2022cfda,
   title={CFDA: Collaborative Feature Disentanglement and Augmentation for Pulmonary Airway Tree Modeling of COVID-19 CTs},
   author={Zhang, Minghui and Zhang, Hanxiao and Yang, Guang-Zhong and Gu, Yun},
@@ -149,7 +151,7 @@ If you find this repo's papers, codes, and ATM'22 challenge data are helpful to 
 ```
 
 Alternatively, you could also cite our challenge benchmark manuscript:
-```
+```bibtex
 @article{zhang2023multi,
   title={Multi-site, Multi-domain Airway Tree Modeling},
   author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Tang, Wen and Arnold, Corey and Pei, Chenhao and Yu, Pengxin and Nan, Yang and others},

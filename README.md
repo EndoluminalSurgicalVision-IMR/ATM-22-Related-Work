@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 <div align=center><img src="figs/bannar.png"></div>
 
-**News [2024/08/10]:** We have updated the Long-Term Test-Phase Results for the hidden test set (150 CT scans) after MICCAI 2022. The **Docker or API submission** via e-mail(IMR-ATM22@outlook.com) for the test phase is welcome, and we will update the results timely.
+**News [2024/08/10]:** We have updated the Long-Term Test-Phase Results for the hidden test set (150 CT scans) after MICCAI 2022. The **Docker or API submission** via e-mail(**IMR-ATM22@outlook.com**) for the test phase is welcome, and we will update the results timely.
 Please refer to  [**Long-Term-Test-Phase-Results**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/Long-Term-Test-Phase-Results) for detailed information!
 
 **News [2024/07/31]:** We have integrated the Binary Airway Segmentation (BAS) dataset in this repository! Please refer to  [**BAS Dataset**](https://github.com/Puzzled-Hui/ATM-22-Related-Work/tree/main/BAS-Dataset) for detailed information!
@@ -12,9 +12,9 @@ Please refer to  [**Long-Term-Test-Phase-Results**](https://github.com/Puzzled-H
 > Minghui Zhang, Yangqian Wu, Hanxiao Zhang, Yulei Qin, Hao Zheng, Weihao Yu, Jiayuan Sun, Guang-Zhong Yang, Yun Gu.
 >> ATM'22 organization team: Institute of Medical Robotics, Shanghai Jiao Tong University & Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital
 
-**Highlight: The benchmark manuscritpt: [Multi-site, Multi-domain Airway Tree Modeling](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177)** has been accepted for publication in Medical Image Analysis. 
-If ATM'22 challenge, dataset or this repo is helpful to your scientific research, please cite the [**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177):
-```
+**Highlight: The benchmark manuscritpt: [Multi-site, Multi-domain Airway Tree Modeling](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177)** has been accepted for publication in **Medical Image Analysis**. 
+If ATM'22 challenge, dataset or this repo is helpful to your scientific research, please cite our [**benchmark paper**](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002177):
+```bibtex
 @article{zhang2023multi,
   title={Multi-site, Multi-domain Airway Tree Modeling},
   author={Zhang, Minghui and Wu, Yangqian and Zhang, Hanxiao and Qin, Yulei and Zheng, Hao and Tang, Wen and Arnold, Corey and Pei, Chenhao and Yu, Pengxin and Nan, Yang and others},

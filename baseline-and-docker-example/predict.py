@@ -104,8 +104,8 @@ class InnerTransform(object):
 InnerTransformer = InnerTransform()
 
 parser = argparse.ArgumentParser('Baseline for Airway Tree Modeling (ATM22)')
-parser.add_argument('-i', "--inputs", default='./inputs', type=str, help="input path of the CT images list")
-parser.add_argument('-o', "--outputs", default='./outputs', type=str, help="output of the prediction results list")
+parser.add_argument('-i', "--inputs", default="C:\\Users\\admin\Desktop\\IMAGES", type=str, help="input path of the CT images list")
+parser.add_argument('-o', "--outputs", default="C:\\Users\\admin\Desktop\\PREDS", type=str, help="output of the prediction results list")
 args = parser.parse_args()
 
 if __name__ == "__main__":

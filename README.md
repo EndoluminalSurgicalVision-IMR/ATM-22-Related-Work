@@ -58,6 +58,7 @@ Please refer to [**Related Works**](https://github.com/Puzzled-Hui/ATM-22-Relate
 | Date | Author | Title |     Conf/Jour      | Code |
 |:----:| :---: | :---: |:------------------:| :---: |
 | 2023 |[ATM'22 Organizers and Participants]()|[Multi-site, Multi-domain Airway Tree Modeling](https://arxiv.org/abs/2303.05745)|MedIA|[Official](https://github.com/Puzzled-Hui/ATM-22-Related-Work)|
+| 2025 |[Dexu Wang]()|[Airway segmentation using Uncertainty-based Double Attention Detail Supplement Network](https://www.sciencedirect.com/science/article/pii/S1746809425001594)| BSPC | [——]()  |
 | 2024 |[Chenyu Li]()|[Airway Labeling Meets Clinical Applications: Reflecting Topology Consistency and Outliers via Learnable Attentions](https://arxiv.org/abs/2410.23854)| Arxiv | [——]()  |
 | 2024 |[Minghui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CepcxZcAAAAJ)|[Implicit Representation Embraces Challenging Attributes of Pulmonary Airway Tree Structures](https://papers.miccai.org/miccai-2024/paper/0885_paper.pdf)| MICCAI | [Official](https://github.com/EndoluminalSurgicalVision-IMR/DGCI) |
 | 2024 |[Bingyu Yang]()|[Multi-Stage Airway Segmentation in Lung CT Based on Multi-scale Nested Residual UNet](https://arxiv.org/abs/2410.18456)| Arxiv | [——]() |

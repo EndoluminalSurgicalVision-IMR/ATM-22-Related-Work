@@ -5,7 +5,7 @@ We provided the images and airway annotations for the 70 CT scans from LIDC. Mea
 The original images of EXACT'09 should be acquired from its own official website: http://image.diku.dk/exact/. 
 
 **Download Links**
-The BAS dataset can be acquired from here: [**Link**](https://drive.google.com/file/d/1oXF-hLmhWXFgrXp_DqISgmprD1zEB4q4/view?usp=sharing)
+The BAS dataset can be acquired from here: [**Link**](http://www.pami.sjtu.edu.cn/Show/56/126)
 
 
 **Reference:**
